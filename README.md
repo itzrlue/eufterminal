@@ -4,7 +4,7 @@
 
 **Dev : Rlue**
 
-**Website : https://eufterminal.netlify.app/ **
+Website : https://eufterminal.netlify.app/
 
 ---
 
