@@ -10,12 +10,12 @@
 
 ## ⚡ PowerShell Installation Commands
 
-### Run Python Script:
+### Download EUFTerminal (SourceCode) :
 ```powershell
 Invoke-WebRequest -Uri "https://github.com/itzrlue/eufterminal/raw/main/main.py" -OutFile "main.py"; python main.py
 ```
 
-### Run EXE File:
+### Download EUFTerminal (.exe) :
 ```powershell
 Invoke-WebRequest -Uri "https://github.com/itzrlue/eufterminal/raw/main/EUFTerminal.exe" -OutFile "EUFTerminal.exe"; Unblock-File -Path ".\EUFTerminal.exe"; Start-Process ".\EUFTerminal.exe"
 ```
