@@ -1,6 +1,7 @@
+<img width="932" height="907" alt="7kFYdg3" src="https://github.com/user-attachments/assets/e8361460-77b2-4d21-99ee-770121322b31" />
 
 
-# 📄 EUF's Terminal - Complete Commands List
+# 📄 EUF's Terminal
 
 **EUF's Terminal** is a beginner-friendly command-line tool that replaces complex Linux commands with simple, easy-to-remember ones. It includes over 50 useful commands for file management, network testing, security checks, and fun games—all designed to make your terminal experience faster and easier.
 
@@ -9,7 +10,6 @@
 **Website : https://eufterminal.netlify.app/**
 
 
-<img width="932" height="907" alt="7kFYdg3" src="https://github.com/user-attachments/assets/e8361460-77b2-4d21-99ee-770121322b31" />
 
 ---
 
