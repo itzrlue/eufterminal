@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-EUF Terminal - Professional System Management & Cybersecurity Tool
+EUF Terminal 
 Developer: Jalal | Made By Love 3>
 Version: 2.0.0
 Windows Only
